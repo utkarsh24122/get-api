@@ -60,7 +60,7 @@ rm apiget.txt
 
 cat api-endpoints.txt | wc -l >> log.txt
 read -r foo3<log.txt ;rm -f log.txt
-
+rm api_endpoints.yaml
 echo -e "\n\e[36m[\e[32m+\e[36m]\e[92m "$foo3" API Endpoints found and saved in "$foo2"/api-endpoints.txt \e[0m\n" 
 echo ""
 echo ""
