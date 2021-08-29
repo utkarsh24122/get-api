@@ -1,6 +1,6 @@
 # get-api 🎯
 Template based scanning for API endpoints for further exploitation
-- Detecting API endpoints for multiple domains
+- Detecting API endpoints for multiple domains. Check [Screenshots](https://github.com/utkarsh24122/get-api#screenshots-)
 
 # Setup 🛠
 ```
@@ -17,7 +17,7 @@ Install [httpx](https://github.com/projectdiscovery/httpx)
 make target file :
 cat > target.txt
 subdomain.target.com
-test.target.como
+test.target.com
 ^C
 ```
 - Run:
