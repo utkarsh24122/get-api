@@ -3,7 +3,7 @@ Template based scanning for API endpoints for further exploitation
 - Detecting API endpoints for multiple domains. Check [Screenshots](https://github.com/utkarsh24122/get-api#screenshots-)
 
 <br/><br/>
-You may integrate the [".yaml"](https://github.com/utkarsh24122/get-api/blob/main/api_endpoints.yaml) template in your own workflow.
+You may integrate the ["api_endpoints.yaml"](https://github.com/utkarsh24122/get-api/blob/main/api_endpoints.yaml) template in your own workflow.
 
 If you don't have one, feel free to checkout my workflow automation: [Vulnhunt](https://github.com/utkarsh24122/VulnHunt)
 
