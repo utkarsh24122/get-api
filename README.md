@@ -12,7 +12,7 @@ If you don't have one, feel free to checkout my workflow automation: [Vulnhunt](
 ```
 git clone https://github.com/utkarsh24122/get-api
 cd get-api
-chmod +x *
+chmod +x getapi.sh
 ```
 Make sure you have installed [nuclei](https://github.com/projectdiscovery/nuclei) ---> [Learn How](https://github.com/projectdiscovery/nuclei#install-nuclei)
 
