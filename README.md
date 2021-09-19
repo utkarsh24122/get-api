@@ -6,6 +6,8 @@ Template based scanning for API endpoints for further exploitation
 You may integrate the [".yaml"](https://github.com/utkarsh24122/get-api/blob/main/api_endpoints.yaml) template in your own workflow.
 
 If you don't have one, feel free to checkout my workflow automation: [Vulnhunt](https://github.com/utkarsh24122/VulnHunt)
+
+Read about how this tool helped me get sensitive information and PII leakage of employees in my [Blog](https://utkarsh24122.gitbook.io/findings/api-endpoints-lead-to-sensitive-information-disclosure-and-pii-leakage-of-employees)
 <br/><br/>
 
 # Setup 🛠
