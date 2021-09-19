@@ -40,7 +40,7 @@ echo ""
 echo -e "\n\e[36m[\e[32m+\e[36m]\e[92m Getting template ... \e[0m\n" 
 echo ""
 wget -q https://raw.githubusercontent.com/utkarsh24122/get-api/main/api_endpoints.yaml
-echo "api_endpoints.yaml                             100%[====================================================================================================>]   2.09K  --.-KB/s "
+echo "                 api_endpoints.yaml           100%[====================================================================================================>]   2.09K  --.-KB/s "
 echo ""
 
 
